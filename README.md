@@ -14,8 +14,8 @@
 <pre><code>sudo pip install --upgrade Pillow</code></pre>
 
 3. Set environmental variables<br>
-	a. Get API key json file and copy it to RPi's /home/pi/
-		reference:https://www.dexterindustries.com/howto/use-google-cloud-vision-on-the-raspberry-pi/
+	a. Get API key json file and copy it to RPi's /home/pi/ <br>
+		reference:https://www.dexterindustries.com/howto/use-google-cloud-vision-on-the-raspberry-pi/<br>
 		
 	b. edit profile
 		<pre><code>sudo nano /etc/profile</code></pre>		
